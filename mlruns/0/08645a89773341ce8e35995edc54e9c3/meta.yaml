@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Vador66/Project/Chest_Cancer/mlruns/0/08645a89773341ce8e35995edc54e9c3/artifacts
+end_time: 1724876638477
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 08645a89773341ce8e35995edc54e9c3
+run_name: rogue-midge-231
+run_uuid: 08645a89773341ce8e35995edc54e9c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724876626767
+status: 3
+tags: []
+user_id: Vador66
