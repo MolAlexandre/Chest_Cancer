@@ -12,26 +12,17 @@ The dataset contains chest X-ray images categorized from kaggle : Chest CT-Scan 
 
 ## Tools Used
 
-### Machine Learning & Deep Learning
 - **PyTorch**: Main framework for developing the convolutional neural network.
-- **CNN (Convolutional Neural Network)**: Model architecture.
+- **CNN (Convolutional Neural Network)**: VGG16 model architecture.
 - **DVC (Data Version Control)**: Version control for data and experiments.
 - **MLflow**: Experiment and hyperparameter tracking.
 
-### Model Training
-The model uses a CNN with:
-- **Convolutional layers** with ReLU activations.
-- **MaxPooling**
-- **Batch Normalization**
-- **Dropout**
-- **Fully connected layers**
-
-### Hyperparameters Used
+## Hyperparameters Used
 - **Batch size**: 32
 - **Learning rate**: 0.001 with adaptive decay.
 - **Optimizer**: Adam
 - **Number of epochs**: 50
-- **Loss function**: Cross-Entropy Loss
+- **Loss function**: Categorical Cross-Entropy
 
 ## Workflows
 
